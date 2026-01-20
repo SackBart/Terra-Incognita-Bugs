@@ -24,7 +24,6 @@ I tried doing this and that but wow still no
 - wait for 3 seconds
 
 ## Additional Files worth sharing
-Nice pig
 
 ![Hi](https://github.com/user-attachments/assets/49f49d08-e587-4e43-9ce5-c5c069fadd84)
 

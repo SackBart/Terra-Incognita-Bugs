@@ -27,6 +27,9 @@ I tried doing this and that but wow still no
 Nice pig
 ![dadawartfegh](https://github.com/user-attachments/assets/e31f5e0a-45b6-480a-b661-7ce4a0b80a90)
 
+**Contact** <br>
+Heres my discord if you need further information (OPTIONAL)
+
 ---
 
 Copy-Paste:
@@ -38,4 +41,6 @@ Copy-Paste:
 **How to reproduce** <br>
 
 **Additional Files worth sharing** <br>
+
+**Contact** <br>
 ```

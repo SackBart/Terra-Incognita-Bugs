@@ -6,6 +6,8 @@ If you found a bug by any means and you want to report it, [create an issue](htt
 Markdown is used to write issues. If you're not familiar with markdown, it's similar to discord's formating. <br>
 Here's Markdown's [Syntax](https://www.markdownguide.org/basic-syntax/) for cool formating 😎
 
+Here are all current bugs listed: [Link](https://github.com/SackBart/Terra-Incognita-Bugs/issues)
+
 That's the prefered Format for an issue. If information on an issue is unclear, I can't fix it and will label it as `unclear`
 
 ---

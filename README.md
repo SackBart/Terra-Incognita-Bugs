@@ -12,35 +12,38 @@ That's the prefered Format for an issue. If information on an issue is unclear, 
 
 ---
 
-**Topic** <br>
+## Topic 
 Give a brief description of the found bug
 
-**Things I tried** <br>
+## Things I tried
 I tried doing this and that but wow still no
 
-**How to reproduce** <br>
+## How to reproduce 
 - Open command line
 - type "makebug"
 - wait for 3 seconds
 
-**Additional Files worth sharing** <br>
+## Additional Files worth sharing
 Nice pig
-![dadawartfegh](https://github.com/user-attachments/assets/e31f5e0a-45b6-480a-b661-7ce4a0b80a90)
 
-**Contact** <br>
+![Hi](https://github.com/user-attachments/assets/49f49d08-e587-4e43-9ce5-c5c069fadd84)
+
+This is really important to show
+
+## Contact 
 Heres my discord if you need further information (OPTIONAL)
 
 ---
 
 Copy-Paste:
 ```
-**Topic** <br>
+## Topic 
 
-**Things I tried** <br>
+## Things I tried 
 
-**How to reproduce** <br>
+## How to reproduce 
 
-**Additional Files worth sharing** <br>
+## Additional Files worth sharing
 
-**Contact** <br>
+## Contact 
 ```

@@ -12,11 +12,14 @@ That's the prefered Format for an issue. If information on an issue is unclear, 
 
 ---
 
-## Topic 
+## Describe the Issue 
 Give a brief description of the found bug
 
-## Things I tried
-I tried doing this and that but wow still no
+## Expected Behaviour
+It should make a bug after 3 seconds of the command
+
+## Actual Behaviour
+It somehow works
 
 ## How to reproduce 
 - Open command line
@@ -36,9 +39,11 @@ Heres my discord if you need further information (OPTIONAL)
 
 Copy-Paste:
 ```
-## Topic 
+## Describe the Issue
 
-## Things I tried 
+## Expected Behaviour
+
+## Actual Behaviour
 
 ## How to reproduce 
 
